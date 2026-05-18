@@ -1,0 +1,36 @@
+# Arquivos compilados Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos temporários de editores
+tempCodeRunnerFile.*
+*.tmp
+*.bak
+*~
+
+# Binários compilados (C/C++)
+Aulainicial
+Aula0804
+
+# Arquivos de log
+*.log
+
+# Arquivos ZIP
+*.zip
+
+# Dependências / bibliotecas externas
+lib/
+
+# Artefatos internos do sistema
+.dist/
